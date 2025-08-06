@@ -9,8 +9,13 @@ My primary focus areas include **payment systems**, **e-commerce platforms**, an
 ## 🚀 Tech Stack
 
 🧩 Backend      : .NET Core, ASP.NET MVC, C#, Entity Framework, IdentityServer
+
 🎨 Frontend     : React, React Native, JavaScript, HTML/CSS, Tailwind CSS, Bootstrap
+
 🧠 AI / Prompt  : Claude CLI, ChatGPT, Google Gemini, Prompt Engineering
+
 📦 DevOps       : Docker, Redis
+
 🗄️ Database     : SQL Server, PostgreSQL
+
 📚 CMS / API    : Strapi CMS, RESTful API
